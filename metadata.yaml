@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34244'
     url: http://www.gutenberg.org/2009/agents/34244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29905#Viribus-unitisWie-k-nnte-die-europ-ische-Cultur-nach-Bosnien-verpflanzt-werden-
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-09-04'
 gutenberg_type: Text
